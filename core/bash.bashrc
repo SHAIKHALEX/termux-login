@@ -7,10 +7,10 @@ python /data/data/com.termux/files/usr/etc/login_script.py
 PS1="[\w] >> "
 
 clear
-echo "Created By HTR-TECH"
+echo "Created By ALEX-SHAIKH"
 echo "----------------------------" | lolcat
-echo "Instagram :@ tahmid.rayat"
-echo "Github: github.com/htr-tech/"
+echo "Name :ALEX SHAIKH"
+echo "User ID:Cicada@3301"
 echo "----------------------------" | lolcat
 echo "
 +-+-+-+-+-+-+-+
